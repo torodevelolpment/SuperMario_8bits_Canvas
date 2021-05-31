@@ -1,0 +1,11 @@
+
+#container{
+    width: 100%;
+    margin: 0 auto;
+    box-sizing:border-box;
+}
+#myCanvas{
+    border: solid 2px coral;
+    background-image: url(../img/grid.jpg);
+    
+}
